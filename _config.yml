@@ -5,6 +5,7 @@ email: trkrameshkumar@gmail.com
 description: "This is my first blog , and i build this blog on  jekyll , it is really awesome"
 baseurl: "http://trkrameshkumar.github.io"
 url: "http://trkrameshkumar.github.io"
+username: "trkrameshkumar"
 
 # Build settings
 markdown: kramdown

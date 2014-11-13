@@ -1,12 +1,9 @@
-# Site settings
-name: Rameshkumar Tech blog
-title: Rameshkumar	Tech blog
-email: trkrameshkumar@gmail.com
-description: "This is my first blog , and i build this blog on  jekyll , it is really awesome"
-baseurl: "http://trkrameshkumar.github.io"
-url: ""
+title:        Ramesh Kumar
+tagline:      'Ramesh kumar tech blog'
+description: "Web developer, at vakilserach.com"
+url:          http://trkrameshkumar.github.io
 username: "trkrameshkumar"
-
-# Build settings
-markdown: kramdown
-permalinks: pretty
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5

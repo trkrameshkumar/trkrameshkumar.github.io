@@ -6,5 +6,6 @@ username: "trkrameshkumar"
 markdown:     rdiscount
 permalink:    pretty
 highlighter: pygments
+exclude: [vendor]
 paginate:     5
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Install ajax datatables gem on rails 4"
+date:   2014-05-09 06:30:00
+categories: rails datatables
+---
+
 This is part 1 of a 2-part tutorial series.
 
 In part one of this tutorial, we will introduce you to these four tools

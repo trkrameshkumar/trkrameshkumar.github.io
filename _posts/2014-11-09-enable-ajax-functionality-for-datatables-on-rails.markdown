@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Enable ajax functionalify for datatables on rails"
+date:   2014-05-09 06:30:00
+categories: rails datatables
+---
+
 This is part 2 of a 2-part tutorial series.
 
 In this part two of this tutorial we will going to tech you have to enable Datatables with ajax functionality to our html table.

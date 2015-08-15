@@ -2,7 +2,7 @@
 layout: post
 title:  "How to integrate bootstrap with Ruby on Rails!"
 date:   2014-05-09 06:37:00
-categories: blog update
+categories: rails bootstrap
 ---
 Twitter Bootstrap is one of the defacto tool for web developers to build responsive and modern web applications , to integrate bootstrap with ruby on rails we have to follow the following steps.
 

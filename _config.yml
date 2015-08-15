@@ -5,6 +5,6 @@ url:          http://trkrameshkumar.github.io
 username: "trkrameshkumar"
 markdown:     rdiscount
 permalink:    pretty
-pygments:     true
+highlighter: pygments
 paginate:     5
 

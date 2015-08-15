@@ -2,6 +2,7 @@
 layout: post
 title:  "Install ajax datatables gem on rails 4"
 date:   2014-05-09 06:30:00
+comments: true
 categories: rails datatables
 ---
 

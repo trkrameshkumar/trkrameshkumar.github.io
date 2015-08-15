@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to myblog!"
 date:   2014-05-09 02:54:45
+comments: true
 categories: blog update
 ---
 

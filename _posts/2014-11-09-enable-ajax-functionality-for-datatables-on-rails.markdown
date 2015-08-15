@@ -2,6 +2,7 @@
 layout: post
 title:  "Enable ajax functionalify for datatables on rails"
 date:   2014-05-09 06:30:00
+comments: true
 categories: rails datatables
 ---
 

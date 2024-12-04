@@ -185,7 +185,7 @@ $ ->
 ```
 **Congratulations** Now when you visit the app in your browser, at http://localhost:3000, you should see this:
 
-![image from imgur](http://i.imgur.com/OpwQW3Z.png)
+![image from imgur](https://i.imgur.com/OpwQW3Z.png)
 
 
 You have successfully integrated and enabled datatables on your project . Thank you for reading .

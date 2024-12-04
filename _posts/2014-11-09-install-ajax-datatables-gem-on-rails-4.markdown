@@ -98,7 +98,7 @@ rails s
 
 Now when you visit the app in your browser, at http://localhost:3000, you should see this:
 
-![image from img](http://i.imgur.com/bllQYoO.png)
+![image from img](https://i.imgur.com/bllQYoO.png)
 
 
 ***
